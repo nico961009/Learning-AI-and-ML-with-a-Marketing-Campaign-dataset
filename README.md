@@ -6,8 +6,8 @@ I found interesting the dataset of "Marketing Campaign" released in the communit
 
 The division of this repository will evolve depending on the topics that I would like to practice, so far I have the following notebooks:
 1. **Cleaning and enriching a dataset**:  The idea of this notebook is to master skills related to Pandas and NumPy for cleaning and organizing a dataset.
-  * Link to the notebook: https://github.com/nico961009/Preparation-of-a-dataset-cleaning-and-data-s-enriching/blob/master/Generating%20a%20proper%20dataset.ipynb
-  * The cleaning and enriching gave a new outcome of columns in the datset, so the Dataset´s characteristics are updated in this notebook.
+     * Link to the notebook: https://github.com/nico961009/Preparation-of-a-dataset-cleaning-and-data-s-enriching/blob/master/Generating%20a%20proper%20dataset.ipynb
+     * The cleaning and enriching gave a new outcome of columns in the datset, so the Dataset´s characteristics are updated in this notebook.
 
 
 

@@ -1,4 +1,4 @@
-# Learning AI and ML with a Marketing Campaign dataset
+# **Learning AI and ML with a Marketing Campaign dataset**
 
 The best way to master a new skill is through practice and more practice. I will be sharing those practices in this repository.
 
@@ -11,11 +11,11 @@ The division of this repository will evolve depending on the topics that I would
 
 
 
-#**Dataset´s characteristics:**
+## **Dataset´s characteristics:**
 
 Dataset from: https://www.kaggle.com/imakash3011/customer-personality-analysis
 
-## **Content**
+### **Content**
 
 Attributes
 

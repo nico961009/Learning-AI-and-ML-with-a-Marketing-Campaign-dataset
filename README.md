@@ -11,7 +11,7 @@ The division of this repository will evolve depending on the topics that I would
 
 
 
-Dataset´s characteristics:
+#**Dataset´s characteristics:**
 
 Dataset from: https://www.kaggle.com/imakash3011/customer-personality-analysis
 
